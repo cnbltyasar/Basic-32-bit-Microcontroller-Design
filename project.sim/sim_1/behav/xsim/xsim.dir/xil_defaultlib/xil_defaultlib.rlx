@@ -1,0 +1,21 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/yasar/project/project.srcs/sim_1/new/Data_Path_tb.vhd,1623699633,vhdl,,,,data_path_tb,,,,,,,,
+C:/Users/yasar/project/project.srcs/sim_1/new/ProgramCounter_tb.vhd,1622119245,vhdl,,,,programcounter_tb,,,,,,,,
+C:/Users/yasar/project/project.srcs/sim_1/new/RegisterFile_tb.vhd,1622149183,vhdl,,,,registerfile_tb,,,,,,,,
+C:/Users/yasar/project/project.srcs/sources_1/new/ALU.vhd,1623254107,vhdl,,,,alu,,,,,,,,
+C:/Users/yasar/project/project.srcs/sources_1/new/ALUADD.vhd,1623230456,vhdl,,,,aluadd,,,,,,,,
+C:/Users/yasar/project/project.srcs/sources_1/new/Controller.vhd,1623255970,vhdl,,,,controller,,,,,,,,
+C:/Users/yasar/project/project.srcs/sources_1/new/DFF.vhd,1621693015,vhdl,,,,dff,,,,,,,,
+C:/Users/yasar/project/project.srcs/sources_1/new/DataMemory.vhd,1623699639,vhdl,,,,datamemory,,,,,,,,
+C:/Users/yasar/project/project.srcs/sources_1/new/DataPath.vhd,1623239167,vhdl,,,,datapath,,,,,,,,
+C:/Users/yasar/project/project.srcs/sources_1/new/Instruction_memory.vhd,1623256152,vhdl,,,,instruction_memory,,,,,,,,
+C:/Users/yasar/project/project.srcs/sources_1/new/Mux32Bit2to1.vhd,1622114450,vhdl,,,,mux32bit2to1,,,,,,,,
+C:/Users/yasar/project/project.srcs/sources_1/new/Mux5bit2to1.vhd,1623229170,vhdl,,,,mux5bit2to1,,,,,,,,
+C:/Users/yasar/project/project.srcs/sources_1/new/PCAdder.vhd,1621709069,vhdl,,,,pcadder,,,,,,,,
+C:/Users/yasar/project/project.srcs/sources_1/new/ProgramCounter.vhd,1621693688,vhdl,,,,programcounter,,,,,,,,
+C:/Users/yasar/project/project.srcs/sources_1/new/RegisterFile.vhd,1623257059,vhdl,,,,registerfile,,,,,,,,
+C:/Users/yasar/project/project.srcs/sources_1/new/ShiftLeft.vhd,1622718307,vhdl,,,,shiftleft,,,,,,,,
+C:/Users/yasar/project/project.srcs/sources_1/new/SignExtension.vhd,1621793388,vhdl,,,,signextension,,,,,,,,
